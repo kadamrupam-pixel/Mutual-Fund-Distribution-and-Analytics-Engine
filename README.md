@@ -1,3 +1,5 @@
+<img width="667" height="477" alt="image" src="https://github.com/user-attachments/assets/1915d13b-07e0-4da6-a422-53333774cc43" />
+
 # Mutual Fund Distribution & Analytics Engine
 
 ## Project Overview
